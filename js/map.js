@@ -19,7 +19,7 @@ function init() {
 		balloonContentFooter: 'Авта сервис',
 	}, {
 		iconLayout: 'default#image',
-		iconImageHref: 'https://cdn-icons.flaticon.com/png/512/3082/premium/3082383.png?token=exp=1651604400~hmac=fa7ceeb1f005500c7567283b6ecaba3a',
+		iconImageHref: 'https://cdn-icons.flaticon.com/png/512/3082/premium/3082383.png?token=exp=1651642275~hmac=dd800a19d9fe357db44eeb4f959a536b',
 		iconImageSize: [40, 40],
 		iconImageOffset: [-30, -25],
 	});
