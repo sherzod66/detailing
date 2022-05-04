@@ -706,9 +706,6 @@ li {
 	height: 500px;
 }
 
-[class*="ground-pane"] {
-	filter: grayscale(1);
-}
 
 @media (max-width:768px) {
 	.map {
