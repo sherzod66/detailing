@@ -90,6 +90,23 @@ li {
 	font-family: sans-serif;
 }
 
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+::-webkit-scrollbar-track {
+	background-color: #474747;
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: #006db6;
+	border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background-color: #0684d8;
+}
+
 
 .wrapper {
 	min-height: 100vh;
